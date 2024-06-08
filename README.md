@@ -1,6 +1,6 @@
-# ROAD_ACCIDENT_ANALYS-MYSQL_PowerBI_Microsoft-excel
+# ROAD_ACCIDENT_ANALYS-MySQL_PowerBI_Microsoft-excel
 This repository contains an analysis of UK road accident data sourced from Kaggle. The analysis involves data preprocessing, visualization, and in-depth exploration using Microsoft Excel, Power BI, and MySQL.
-# ROAD_ACCIDENT_ANALYS-MYSQL_PowerBI_Microsoft-excel
+# ROAD_ACCIDENT_ANALYS-MySQL_PowerBI_Microsoft-excel
 ![1](https://github.com/HashanPavi/ROAD_ACCIDENT_ANALYS-MYSQL_PowerBI_Microsoft-excel/assets/144510678/517aae45-a869-49fb-a307-b07fb9d81ffe)
 ![2](https://github.com/HashanPavi/ROAD_ACCIDENT_ANALYS-MYSQL_PowerBI_Microsoft-excel/assets/144510678/ec186021-25db-4ef5-b7fa-2ab053bf8e69)
 ![3](https://github.com/HashanPavi/ROAD_ACCIDENT_ANALYS-MYSQL_PowerBI_Microsoft-excel/assets/144510678/166a855a-6e83-4e55-b825-3a6e747b279c)
