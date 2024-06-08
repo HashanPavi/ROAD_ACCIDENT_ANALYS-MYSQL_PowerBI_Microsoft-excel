@@ -10,7 +10,7 @@ This repository contains an analysis of UK road accident data sourced from Kaggl
 
 ## Data Used
 <b>Data</b> - https://www.kaggle.com/datasets/syedibrahim03/road-accidents-dataset (Kaggle).
-<p><b>Data Cleaning & Analysis</b> - MYSQL/Microsoft excel/PowerBI</p>
+<p><b>Data Cleaning & Analysis</b> - MySQL/Microsoft excel/PowerBI</p>
 <p><b>Data Visualization</b> - PowerBI/Microsoft excel</p></br>
 
 ## REQUIREMENT
